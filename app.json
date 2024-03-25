@@ -1,0 +1,42 @@
+{
+  "name": "ᴀɪ ᴄʜᴀᴛʙᴏᴛ",
+  "description": "ᴀɪ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ",
+  "logo": "https://graph.org/file/7538e9f28bef5419e7fa7.jpg",
+  "keywords": [
+    "Chatbot",
+    "mongodb",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "repository": "https://github.com/VARC9210/STORM-CHATBOT",
+  "env": {
+    "API_ID": {
+      "description": "ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ/ᴀᴘᴘꜱ.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ/ᴀᴘᴘꜱ.",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ @ʙᴏᴛꜰᴀᴛʜᴇʀ",
+      "required": true,
+      "value": ""
+    },
+    "MONGO_URL": {
+      "description": "ɢᴇᴛ ᴀ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ꜰʀᴏᴍ ʜᴛᴛᴘꜱ://ᴄʟᴏᴜᴅ.ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ.",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "ᴜꜱᴇʀ ɪᴅ ᴏꜰ ᴛʜᴇ ᴜꜱᴇʀ ᴡʜᴏ ᴡɪʟʟ ᴋɴᴏᴡɴ ᴀꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛ.",
+      "required": true,
+      "value": "6257927828"
+    }
+  }
+}
