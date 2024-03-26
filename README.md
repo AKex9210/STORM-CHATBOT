@@ -12,30 +12,30 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://https://github.com/VARC9210/STORM-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://dashboard.heroku.com/new?template=https://https://github.com/VARC9210/STORM-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/VARC9210/STORM-CHATBOT/blob/main/sample.env)
-- Upgrade and Update by :
+- ɢᴇᴛ ʏᴏᴜʀ [ɴᴇᴄᴇꜱꜱᴀʀʏ ᴠᴀʀɪᴀʙʟᴇꜱ](https://github.com/VARC9210/STORM-CHATBOT/blob/main/sample.env)
+- ᴜᴘɢʀᴀᴅᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙʏ :
 `sudo apt-get update && sudo apt-get upgrade -y`
-- Clone the repository by :
+- ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ʙʏ :
 `git clone https://github.com/VARC9210/STORM-CHATBOT && cd STORM-CHATBOT`
-- Install requirements by :
+- ɪɴꜱᴛᴀʟʟ ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ ʙʏ :
 `pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
+- ꜰɪʟʟ ʏᴏᴜʀ ᴠᴀʀɪᴀʙʟᴇꜱ ɪɴ ᴛʜᴇ ᴇɴᴠ ʙʏ :
 `vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+ᴘʀᴇꜱꜱ `I` ᴏɴ ᴛʜᴇ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴏʀ ᴇᴅɪᴛɪɴɢ ᴇɴᴠ<br>
+ᴘʀᴇꜱꜱ `Ctrl+C` ᴡʜᴇɴ ʏᴏᴜ'ʀᴇ ᴅᴏɴᴇ ᴡɪᴛʜ ᴇᴅɪᴛɪɴɢ ᴇɴᴠ ᴀɴᴅ `:wq` ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇ ᴇɴᴠ<br>
 - Rename the env file by :
 `mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
+- ɪɴꜱᴛᴀʟʟ ᴛᴍᴜx ᴛᴏ ᴋᴇᴇᴘ ʀᴜɴɴɪɴɢ ʏᴏᴜʀ ʙᴏᴛ ᴡʜᴇɴ ʏᴏᴜ ᴄʟᴏꜱᴇ ᴛʜᴇ ᴛᴇʀᴍɪɴᴀʟ ʙʏ :
 `sudo apt install tmux && tmux`
-- Finally run the bot by :
+- ꜰɪɴᴀʟʟʏ ʀᴜɴ ᴛʜᴇ ʙᴏᴛ ʙʏ :
 `bash start`
-- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+- ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ᴏᴜᴛ ꜰʀᴏᴍ ᴛᴍᴜx ꜱᴇꜱꜱɪᴏɴ : ᴘʀᴇꜱꜱ `Ctrl+b` ᴀɴᴅ ᴛʜᴇɴ `d`<br>
 
 <h2 align="center"> ──「 ᴅᴇᴍᴏ ʀᴏʙᴏᴛ 」──</h2>
 
