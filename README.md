@@ -47,7 +47,7 @@
 <p align="center"><a href="https://t.me/"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/VARC9210/STORM-CHATBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=STORM-CHATBOT&theme=chartreuse-dark"></a>
+<p align="center"><a href="https://github.com/VARC9210/STORM-CHATBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=STORM-CHATBOT&theme=chartreuse-dark"></a></p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
