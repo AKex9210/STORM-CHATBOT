@@ -55,7 +55,7 @@ IMG = [
 ]
 
 STICKER = [
-    "CAACAgUAAx0CYlaJawABBy4vZaieO6T-Ayg3mD-JP-f0yxJngIkAAv0JAALVS_FWQY7kbQSaI-geBA",
+    "CAACAgUAAxkBAAJftmYjl1oDayK3bPDQgMJm4jlSAouSAAKhDgACEpwhVIn1xyc5WpPpHgQ",
 ]
 
 EMOJIOS = ["⚡","✨"]
